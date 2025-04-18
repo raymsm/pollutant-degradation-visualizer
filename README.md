@@ -72,6 +72,9 @@ Run the test suite:
 ```bash
 python -m pytest tests/
 ```
+Deployed at: [pdegrade.streamlit.app](https://pdegrade.streamlit.app)  
+GitHub repository: [raymsm/pollutant-degradation-visualizer](https://github.com/raymsm/pollutant-degradation-visualizer)  
+For updates or collaboration, contact [raymsm](mailto:ray94msm@gmail.com).
 
 ## License
 
